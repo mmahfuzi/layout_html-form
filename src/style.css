@@ -1,1 +1,13 @@
 /* styles go here */
+body {
+  margin: 0 10;
+}
+
+.form-field {
+  margin: 10px 0;
+}
+
+.form-set {
+  margin: 20px 0;
+  padding: 0 10px;
+}
